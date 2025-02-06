@@ -13,9 +13,11 @@ MOSFETs (Metal-Oxide-Semiconductor Field-Effect Transistors) are created through
 
 
 ### **Structure of NMOS TRANSISTOR**
-![NMOS-STRUCTURE](C:\Users\vikra\OneDrive\Pictures\Screenshots\nmos-3d.png)
+![NMOS-STRUCTURE](https://github.com/user-attachments/assets/ea3ab180-44ac-4a34-b848-fad40e2adaaf)
+
 ### **Structure of PMOS TRANSISTOR**
-![NMOS-STRUCTURE](C:\Users\vikra\OneDrive\Pictures\Screenshots\pmos.png)
+![PMOS-STRUCTURE](https://github.com/user-attachments/assets/55e62b69-7677-4f11-8d74-8669e370e3f2)
+
 
 
 
