@@ -9,10 +9,15 @@ A **silicon wafer** is a thin slice of crystalline silicon (Si) used as a substr
 
 ## **2. Formation of NMOS and PMOS Transistors**
 MOSFETs (Metal-Oxide-Semiconductor Field-Effect Transistors) are created through a **series of deposition, patterning, doping, and etching** steps.
-Structure of PMOS TRANSISTOR
-![nmos-3d]!
-[Uploading pmos.png…]()
-(https://github.com/user-attachments/assets/000b565c-b8c5-463e-bda3-91f5f52c2964)
+
+
+
+### **Structure of NMOS TRANSISTOR**
+![NMOS-STRUCTURE](C:\Users\vikra\OneDrive\Pictures\Screenshots\nmos-3d.png)
+### **Structure of PMOS TRANSISTOR**
+![NMOS-STRUCTURE](C:\Users\vikra\OneDrive\Pictures\Screenshots\pmos.png)
+
+
 
 
 
